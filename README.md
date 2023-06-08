@@ -1,4 +1,4 @@
-![unnamed](https://github.com/shankhaneeldutta667/SQL-Great-Learning/assets/113512673/2c5adb27-97b5-4e38-bc8c-ca07b000468d)
+![GL Logo](https://github.com/shankhaneeldutta667/SQL-Great-Learning/assets/113512673/b87e6456-fb68-4e5a-9054-8362f2e64e93)
 # SQL-Great-Learning
 There is a film rental store that provides DVDs on a rental basis. The owner of this store is your friend and he is not at all computer savvy. To manage his business he has software that helps him to manage the business.
 
